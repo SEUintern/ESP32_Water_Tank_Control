@@ -9,4 +9,5 @@
 #### 3.	Connect your android phone to internet.
 
 #### 4.	Lunch the app form your phone menu list.
-
+- Email    : seuintern2024@outlook.com 
+- Password : Test123
