@@ -1,5 +1,9 @@
 # ESP32_Water_Tank_Control
 
+<p align="center">
+<img src="https://github.com/SEUintern/ESP32_Water_Tank_Control/blob/main/Supportive%20Images/Banner.jpg?raw=true">
+</p>
+
 ## Executive Summary
 The project focuses on modernizing the traditional electrical panel board of water tank by integrating advanced ESP-32 based electronic controller. The conventional panel boards have limitations in terms of efficiency, safety, and functionality. By transitioning to electronic controllers, we aim to enhance the management, monitoring, and control of water tank systems, ultimately improving user experience and resource utilization. 
 
