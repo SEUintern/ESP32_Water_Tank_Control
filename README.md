@@ -29,10 +29,9 @@ The project focuses on modernizing the traditional electrical panel board of wat
 - Lower Running cost (lower energy consumption and maintenance requirements)  
 
 
-## CONCLUSION 
+## Conclusion
 
 Replacing manual electrical controller with automatic electronic controller for water tank management represents a significant advancement in energy efficiency, sustainability, and resilience. Adapting to modern technology leads to optimizing resource utilization and reducing operating costs. Our commitment to environmental sustainability, economic viability, and social impact represents our dedication to creating a sustainable future for our organization and the communities we serve. With a focus on innovation, collaboration, and continuous improvement, we are poised to unlock new opportunities and drive positive change in every aspect. Together, we embark on this journey towards a more efficient, sustainable, and resilient future. 
-
 
 
 ## Authors
