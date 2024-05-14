@@ -63,8 +63,8 @@ Figure 2: Publish panel
 
 Water Tank Project MQTT Topics: 
 
-- **Tank-1 Water Level	:** _"testtopic/101" _
-- **Tank-2 Water Level	:** _"testtopic/102"_ 
+- **Tank-1 Water Level	:**_"testtopic/101"_
+- **Tank-2 Water Level	:**_"testtopic/102"_ 
 - **Solenoid-1			:** _"Solenoid/1"_
 - **Solenoid-5			:** _"Solenoid/5"_
 - **Solenoid-6			:** _"Solenoid/6"_
@@ -87,8 +87,8 @@ Figure 3: Subscribe panel
 
 #### Water Tank Project MQTT Topics: 
 
-- **Tank-1 Water Level	:** _"testtopic/101" _
-- **Tank-2 Water Level	:** _"testtopic/102"_ 
+- **Tank-1 Water Level	:**_"testtopic/101"_
+- **Tank-2 Water Level	:**_"testtopic/102"_ 
 - **Solenoid-1			:** _"Solenoid/1"_
 - **Solenoid-5			:** _"Solenoid/5"_
 - **Solenoid-6			:** _"Solenoid/6"_
